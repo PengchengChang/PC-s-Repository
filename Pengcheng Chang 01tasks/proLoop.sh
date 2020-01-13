@@ -1,7 +1,7 @@
 #!/bin/bash
 
 list1=('You' 'have' 'just' 'learned' 'how' 'to' 'script' 'like' 'a' 'pro')
-list2=('You' 'a' 'very' 'nice' 'Christmas' 'and' 'a' 'happy' 'new' 'year!')
+list2=('Have' 'a' 'very' 'nice' 'Christmas' 'and' 'a' 'happy' 'new' 'year!')
 level1=('a' 'c')
 level2=('a' 'b' 'c' 'd' 'e')
 
