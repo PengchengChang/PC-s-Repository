@@ -42,7 +42,7 @@ do
 	do
                 cp -f replace.sh ./${level1[i]}${level2[j]}
                 cd ./${level1[i]}${level2[j]}
-		echo "./${level1[i]}${level2[j]}"
+#		echo "./${level1[i]}${level2[j]}"
 		. ./replace.sh ${list2[n]} ${list1[m]}
 		rm replace.sh
 		cd ..
